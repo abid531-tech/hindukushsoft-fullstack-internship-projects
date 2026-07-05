@@ -1,0 +1,1 @@
+A simple and interactive Progress Steps UI component built using HTML, CSS, and JavaScript. This project demonstrates step-based navigation with dynamic progress updates, smooth animations, and responsive design. Users can move forward and backward through steps while the progress bar updates in real time.
