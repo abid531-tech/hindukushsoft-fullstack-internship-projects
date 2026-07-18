@@ -1,0 +1,1 @@
+A simple Drag and Drop application built with HTML, CSS, and JavaScript using the HTML5 Drag and Drop API. Users can drag an item between multiple drop zones with interactive visual feedback, demonstrating DOM manipulation, event handling, and responsive web design.
