@@ -1,0 +1,1 @@
+A modern and responsive login form built with HTML, CSS, and JavaScript, featuring a smooth wave animation effect on the input labels. As users focus on the email or password fields, each letter of the label animates individually, creating an engaging and interactive user experience.
