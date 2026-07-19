@@ -1,0 +1,1 @@
+A Rotating Navigation Interface built with HTML, CSS, and JavaScript that reveals a hidden menu through smooth page rotation using CSS transforms and transitions. It demonstrates core front-end concepts like DOM manipulation, class toggling, and interactive UI animation design.
