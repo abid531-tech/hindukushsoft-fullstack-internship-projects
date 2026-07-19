@@ -6,4 +6,4 @@ Adjustable brush size (increase/decrease)
 Custom color selection with a color picker
 One-click canvas clearing
 Responsive and clean user interface
-Smooth drawing experience using mouse events
+Smooth drawing experience using mouse events 
